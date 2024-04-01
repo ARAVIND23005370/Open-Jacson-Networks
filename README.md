@@ -1,3 +1,7 @@
+## NAME:RAKSHITHA .P
+## REGISTER NUMBER:212223220083
+
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
